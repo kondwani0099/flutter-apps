@@ -1,5 +1,5 @@
 class FirebaseConfig {
-  static const String apiKey = '"AIzaSyB-nMO-aRFvktsfYfxOroGvqJuU5kztogE"';
+  static const String apiKey = '" "';
   static const String authDomain = 'test-auth-d367f.firebaseapp.com';
   static const String databaseURL = 'https://test-auth-d367f-default-rtdb.firebaseio.com/';
   static const String projectId = 'test-auth-d367f';
